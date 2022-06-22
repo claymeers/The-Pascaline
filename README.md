@@ -1,4 +1,4 @@
-# The Pascaline 🎬
+# The Pascaline 🧮
 Basic mobile friendly design calculator.
 
 [Checkout the demo](https://plyr.io)
