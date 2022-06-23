@@ -1,9 +1,9 @@
 # The Pascaline 🧮
 Basic mobile friendly design calculator.
 
-[Checkout the demo](https://plyr.io)
+[Checkout the demo](https://peaceful-panda.netlify.app/)
 
-[![Image of Calc](preview.jpg)](https://plyr.io)
+[![Image of Calc](preview.jpg)](https://peaceful-panda.netlify.app/)
 
 
 
